@@ -7,3 +7,4 @@ print('i cant believe i finally figured it out using the shell in RStudio
 print('awww boys abre ankasa, who say man no dey?')
 print('this information was added in github')
 print('just want to see if i could access it in RStudio')
+print('wow!!! hurray am really really happy')
